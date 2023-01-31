@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Minna-Nguyen/firebasebookstore.git/static/css/main.073c9b0a.css",
+    "main.js": "/Minna-Nguyen/firebasebookstore.git/static/js/main.f906f782.js",
+    "static/js/787.f1bdb69d.chunk.js": "/Minna-Nguyen/firebasebookstore.git/static/js/787.f1bdb69d.chunk.js",
+    "index.html": "/Minna-Nguyen/firebasebookstore.git/index.html",
+    "main.073c9b0a.css.map": "/Minna-Nguyen/firebasebookstore.git/static/css/main.073c9b0a.css.map",
+    "main.f906f782.js.map": "/Minna-Nguyen/firebasebookstore.git/static/js/main.f906f782.js.map",
+    "787.f1bdb69d.chunk.js.map": "/Minna-Nguyen/firebasebookstore.git/static/js/787.f1bdb69d.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.f906f782.js"
+  ]
+}
